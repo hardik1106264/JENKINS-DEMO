@@ -1,1 +1,1 @@
-Jenkins Poll SCM Test
+POLL SCM
